@@ -1,0 +1,50 @@
+body {
+	background-color: #f8f8f8;
+}
+
+.logo-wrap {
+	text-align: right;
+}
+img {
+	max-width: 100%;
+}
+.contact {
+	padding: 20px 0;
+	margin-bottom: 0px;
+	font-size: 16px;
+}
+.mission {
+	margin: 50px 0 30px 0; 
+	font-family: 'Courgette', cursive;
+	text-align: center;
+	font-size: 26px;
+}
+
+h1 {
+	text-align: center;
+	color: #00477D;
+	margin-top: 30px;
+}
+h2 {
+	color: #00477D;
+}
+a {
+	color: #00477D;
+}
+a:hover {
+	color: #E50E38;
+	text-decoration: none;
+}
+.footer {
+	padding: 20px 0;
+}
+
+@media screen and (max-width: 480px) {
+	.contact {
+		font-size: 12px;
+	}
+	.logo {
+		margin-top: 20px;
+	}
+	
+}
